@@ -7,7 +7,10 @@
 
 <br><br>
 
-<a href="student/showForm"> Here </a>
+<a href="student/showForm"> Students </a>
+<br><br>
+
+<a href="customer/showForm">Customer</a>
 </body>
 
 </html>
